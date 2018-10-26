@@ -1,4 +1,5 @@
 #Count Character
+*
 [![Build Status](https://travis-ci.com/ashabrai/parentChildTree.svg?branch=master)](https://travis-ci.com/ashabrai/parentChildTree)
 ## Challenge
 Create a function that counts all characters given in a string.
